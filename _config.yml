@@ -15,7 +15,8 @@ description              : &description "
 "Hacking My Way Up Blog" is where I share my journey as I work towards becoming a penetration tester. You'll find my personal experiences tackling CTF challenges and walkthroughs of boxes, along with my research into the latest exploits and threat trends. I’ll also be posting tutorials and techniques that I’m learning along the way."
 url                      : https://johnb4k3r.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://johnb4k3r/johnb4k3r.github.io"
+repository               : "repository: "https://github.com/johnb4k3r/johnb4k3r.github.io"
+"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
